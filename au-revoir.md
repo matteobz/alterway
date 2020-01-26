@@ -1,6 +1,6 @@
 # Salut alterway !
 
-_Tu as fait le choix de cliquer sur l'image donc tu peux lire ce message_
+_Tu as fait le choix de cliquer sur l'image donc tu as 5 minutes pour lire ce message_
 
 Je vais essayer de faire court car j'ai tendance à digresser et parfois faire long, trop long même...
 Mais en même temps, je dois résumer 4 ans chez alterway, alors, on reste :focus 
@@ -10,4 +10,10 @@ En effet, elle se base sur le test d’Ishihara ([lien pour ta culture perso car
 
 – alors non, ils ne sont pas accessibles parce que tu peux y accéder via une URL (rigole pas, un client m'a sortie ça un jour quand je lui ai posé la question, faites-vous des sites accessibles ? –
 
-Au 6ème on fait des sites internet accessible pour les personnes en situation de handicap.
+Au 6ème on fait des sites internet accessibles pour les personnes en situation de handicap (daltoniennes, aveugles...) et j'ai intégré alterway il y a 4 ans pour apprendre à faire ce genre de sites et je ne suis pas trop mal tombé :)
+
+En 4 ans, je suis passé d'intégrateur à référent en accessibilité numérique, j'ai rencontré de bonnes personnes et des moins bonnes, j'ai rencontré des génies du codes qui ne savent pas faire la différence entre un <button> et un <p>, j'ai donné des formations, j'ai été tuteur de deux alternant(e)s et enfin j'ai été lead. 
+
+On m'a donné l'opportunité, la confiance et la possibilité de monter en compétence, pour cela je remercie alterway.
+Je tiens à remercier tout particulièrement quelques personnes, elles ont eu un réel impact sur moi, tant professionnellement que personnellement. Je remercie Alec, Johan, Kenni, Jonathan, Nabih, Keitlyne, Loris, Florian, Bryan, Louis, Morgane, Lou, Mélanie, Jérémy, Christophe & Kevin.
+

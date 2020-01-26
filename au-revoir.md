@@ -12,7 +12,7 @@ En effet, elle se base sur le test d’Ishihara ([lien pour ta culture perso car
 
 Au 6ème on fait des sites internet accessibles pour les personnes en situation de handicap (daltoniennes, aveugles...) et j'ai intégré alterway pour apprendre à faire ce genre de sites et je ne suis pas trop mal tombé :)
 
-En 4 ans, je suis passé d'intégrateur à référent en accessibilité numérique, j'ai rencontré de bonnes personnes et des moins bonnes, j'ai rencontré des génies du codes qui ne savent pas faire la différence entre un <button> et un <p>, j'ai donné des formations, j'ai été tuteur de deux alternant(e)s et enfin j'ai été lead. 
+En 4 ans, je suis passé d'intégrateur à référent en accessibilité numérique, j'ai rencontré de bonnes personnes et des moins bonnes, j'ai rencontré des génies du codes qui ne savent pas faire la différence entre un `<button>` et un `<p>`, j'ai donné des formations, j'ai été tuteur de deux alternant(e)s et enfin j'ai été lead. 
 
 On m'a donné l'opportunité, la confiance et la possibilité de monter en compétence, pour cela je remercie alterway.
 

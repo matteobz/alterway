@@ -10,7 +10,7 @@ En effet, elle se base sur le test d’Ishihara ([lien pour ta culture perso car
 
 – alors non, ils ne sont pas accessibles parce que tu peux y accéder via une URL (rigole pas, un client m'a dit ça un jour quand je lui ai posé la question, faites-vous des sites accessibles ? –
 
-Au 6ème on fait des sites internet accessibles pour les personnes en situation de handicap (daltoniennes, aveugles...) et j'ai intégré alterway pour apprendre à faire ce genre de sites et je ne suis pas trop mal tombé :)
+Au 6ème on fait des sites internet accessibles pour les personnes en situation de handicap (daltoniennes, aveugles...) C'est un levier de l'intégration numérique et j'ai intégré alterway pour apprendre à faire ce genre de sites, j'en suis très fière car je ne suis pas trop mal tombé :)
 
 En 4 ans, je suis passé d'intégrateur à référent en accessibilité numérique, j'ai rencontré de bonnes personnes et des moins bonnes, j'ai rencontré des génies du codes qui ne savent pas faire la différence entre un `<button>` et un `<p>`, j'ai donné des formations, j'ai été tuteur de deux alternant(e)s et enfin j'ai été lead. 
 

@@ -26,4 +26,4 @@ Merci d'avoir pris le temps de lire ces mots.
 - - - -
 
 Photo souvenirs, il y a 4 ans
-![image](http://www.matteobz.fr/projet/alterway/la-team.jpg =200x)
+![image](http://www.matteobz.fr/projet/alterway/la-team.jpg | width=100)

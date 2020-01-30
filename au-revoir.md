@@ -14,7 +14,11 @@ Au 6ème on fait des sites internet accessibles pour les personnes en situation 
 
 En 4 ans, je suis passé d'intégrateur à référent en accessibilité numérique, j'ai rencontré de bonnes personnes et des moins bonnes, j'ai rencontré des génies du code qui ne savent pas faire la différence entre un `<button>` et un `<a>`,  j'ai été tuteur de deux alternant(e)s, j'ai donné des formations et enfin j'ai été lead. 
 
-On m'a donné l'opportunité, la confiance, la possibilité de monter en compétence et pour cela je remercie alterway globalement. Cependant, je tiens à remercier tout particulièrement quelques personnes, elles ont eu un réel impact sur moi, tant professionnellement que personnellement. Je remercie donc Alec, Johan, Kenni, Jonathan, Nabih, Keitlyne, Karim, Loris, Florian, Neda, Jérémy, Bryan, Louis, Morgane, Mélanie, Lou, Christophe & Kevin. 
+On m'a donné l'opportunité, la confiance, la possibilité de monter en compétence et pour cela je remercie alterway. 
+
+Durant ces années, j'ai fait la rencontre de pas mal de personnes, avec certaines j'ai entrenu des relations pro et d'autres ce pro s'est transformé en perso et elles sont devenues des ami(e)s.
+
+Parmi cela, je tiens à remercier tout particulièrement quelques personnes, elles ont eu un réel impact sur moi, tant professionnellement que personnellement. Je remercie donc Alec, Johan, Kenni, Jonathan, Nabih, Keitlyne, Florian, Neda, Karim, Anaïs, Camille, Loris, Jérémy, Bryan, Louis, Morgane, Mélanie, Lou, Christophe & Kevin. 
 
 Merci aussi à Audrey, qui sans elle je n'aurais jamais connu alterway.
 

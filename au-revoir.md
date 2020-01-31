@@ -10,7 +10,8 @@ En effet, elle se base sur le test d’Ishihara pour tester le daltonisme ([lien
 
 – alors non, ils ne sont pas accessibles parce qu'on peut y accéder via une URL (je ne rigole pas, on me répond souvent cela quand je pose la question, faites-vous des sites accessibles ? –
 
-Au 6ème on fait des sites internet accessibles pour les personnes en situation de handicap (daltoniennes, aveugles...) C'est un fort levier de l'intégration numérique et j'ai intégré alterway pour apprendre à faire ce genre de sites et j'en suis très fière, car je ne suis pas trop mal tombé :)
+Au 6ème on fait des sites internet accessibles pour les personnes en situation de handicap (daltoniennes, aveugles et autres) C'est un fort levier pour l'intégration numérique et j'ai rejoint alterway pour apprendre à faire ce genre de sites. 
+Résultat, j'en suis très fière, car je ne suis pas trop mal tombé :)
 
 En 4 ans, je suis passé d'intégrateur à référent en accessibilité numérique, j'ai rencontré de bonnes personnes et des moins bonnes, j'ai rencontré des génies du code qui ne savent pas faire la différence entre un `<button>` et un `<a>`,  j'ai été tuteur de deux alternant(e)s, j'ai donné des formations et enfin j'ai été lead. 
 
@@ -18,7 +19,7 @@ On m'a donné l'opportunité, la confiance, la possibilité de monter en compét
 
 Durant ces années, j'ai fait la rencontre de pas mal de personnes, avec certaines j'ai entrenu des relations pro et d'autres ce pro s'est transformé en perso et elles sont devenues des ami(e)s.
 
-Parmi cela, je tiens à remercier tout particulièrement quelques personnes, elles ont eu un réel impact sur moi, tant professionnellement que personnellement. Je remercie donc Alec, Johan, Kenni, Jonathan, Nabih, Keitlyne, Florian, Neda, Karim, Anaïs, Camille, Loris, Jérémy, Bryan, Louis, Morgane, Mélanie, Lou, Christophe & Kevin. 
+Parmi cela, je tiens à remercier tout particulièrement quelques personnes, elles ont eu un réel impact sur moi, tant professionnellement que personnellement. Je remercie donc Alec, Johan, Neda, Kenni, Jonathan, Nabih, Keitlyne, Loris, Florian, Karim, Anaïs, Camille, Jérémy, Bryan, Louis, Morgane, Mélanie, Lou, Christophe & Kevin. 
 
 Merci aussi à Audrey, qui sans elle je n'aurais jamais connu alterway.
 

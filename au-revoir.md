@@ -34,3 +34,7 @@ Merci d'avoir pris le temps de lire ces mots.
 
 Photo souvenirs, il y a 4 ans
 ![image](http://www.matteobz.fr/projet/alterway/la-team.jpg)
+
+- - - 
++1 /Alec
+
